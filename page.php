@@ -2,7 +2,7 @@
 <html>
   <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
-	<title>DÃ©couvre l'ULB!</title>
+	<title>Découvre l'ULB!</title>
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<style>
       body {
@@ -22,7 +22,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="#">DÃ©couvre l'ULB</a>
+          <a class="brand" href="#">Découvre l'ULB</a>
         </div>
       </div>
     </div>
@@ -35,7 +35,7 @@
 	  </div>
 	</div>
       <script src="http://code.jquery.com/jquery-latest.js"></script>
-      <script src="js/bootstrap.min.js"></script>
+      <script src="bootstrap/js/bootstrap.min.js"></script>
 	</div>
   </body>
 </html>
