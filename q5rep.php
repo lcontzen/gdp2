@@ -1,5 +1,5 @@
 <h1>Félicitations!</h1>
-<p><a href="q1indice.php" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
+<p><a href="index.php?i=1" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
 <h3>Plus d'informations</h3>
 <p>Nous avons la chance d'étudier dans une université placant les activités para-universitaires au coeur de la vie sur le campus. Il y a à ce jour plus de 60 cercles et associations reconnus par le Conseil d'Administration. Ceux-ci sont divisés en deux grandes catégories : les Cercles membres de l'Association des Cercles Etudiants d'une part, et les Cercles et associations membres de la Plateforme des Associations Socio-Culturelles. </p>
 <p>Il existe beaucoup de types de Cercles et associations. Il existe par exemple les cercles facultaires (Cercle des Sciences, Cercle de Philosophie et Lettres, Cercle Polytecnique, ...), les cercles de section (Cercle Informatique, Cercle de Romanes, Cercle de Journalisme et Communication, ...), les cercles régionnaux (Cercles des Etudiants du Centre et Sympathisants, La Frontalière, ...), les associations politiques (Comac, Etudiants FGTB, Cercle des Etudiants Libéraux, ...), les assocations culturelles (OPAC, La Nocturne, ...) et encore bien d'autres.</p>
