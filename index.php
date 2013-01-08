@@ -121,7 +121,9 @@ function main () {
       else
         display_error_page ($current);
     }
+  }
 }
 
-
+main();
+  
 ?>
