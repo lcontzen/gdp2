@@ -1,4 +1,5 @@
 <h1>Félicitations!</h1>
+<p>La réponse était "2SIC".</p>
 <p><a href="index.php?i=5" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
 <h3>Plus d'informations</h3>
 <p>Bien joué ! En effet, les séminaires et bibliothèques composant la Bibliothèque des Sciences Humaines sont désignées par leur numéro d'étage et un acronyme spécifiant leur thématique. Mais savais-tu aussi que d'autres bibliothèques se cachent sur les campus de l'ULB ? Ainsi, la Bibliothèque des Sciences et Techniques se trouve au rez-de-chaussée du bâtiment D (<a href="http://www.ulb.ac.be/campus/solbosch/plan-D.html">Plan</a>), celle de Droit est au deuxième étage du bâtiment H (<a href="http://www.ulb.ac.be/campus/solbosch/plan-H.html">Plan</a>) et celle de médecine se situe sur le campus Erasme (<a href="http://www.ulb.ac.be/campus/erasme/plan-GE.html">Plan</a>). Les Archives sont quant à elles situées au bâtiment A (<a href="https://www.ulb.ac.be/campus/solbosch/plan-A.html">Plan</a>) mais il faut y accéder par la porte marquée d'un X.</p>

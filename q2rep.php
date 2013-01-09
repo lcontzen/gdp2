@@ -1,4 +1,5 @@
 <h1>Félicitations!</h1>
+<p>La réponse était "science".</p>
 <p><a href="index.php?i=3" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
 <h3>Plus d'informations</h3>
 <p>La principale devise de l'ULB est « Scientia vincere tenebras » qui signifie « Vaincre les ténèbres par la connaissance ». Cette dernière se trouve gravée sur le bâtiment la façade du bâtiment A.</p>

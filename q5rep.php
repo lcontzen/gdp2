@@ -1,4 +1,5 @@
 <h1>Félicitations!</h1>
+<p>La réponse était "une soixantaine".</p>
 <p><a href="index.php?i=1" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
 <h3>Plus d'informations</h3>
 <p>Nous avons la chance d'étudier dans une université placant les activités para-universitaires au coeur de la vie sur le campus. Il y a à ce jour plus de 60 cercles et associations reconnus par le Conseil d'Administration. Ceux-ci sont divisés en deux grandes catégories : les Cercles membres de l'Association des Cercles Etudiants d'une part, et les Cercles et associations membres de la Plateforme des Associations Socio-Culturelles. </p>

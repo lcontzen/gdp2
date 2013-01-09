@@ -1,4 +1,5 @@
 <h1>Félicitations!</h1>
+<p>La réponse était "InfOR-étude, le service social et les inscriptions".</p>
 <p><a href="index.php?i=2" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
 <h3>Plus d'informations</h3>
 <p>Bon nombre de services sont à la disposition des (futurs / anciens) étudiants, et parfois ceux-ci ne sont pas au courant de toutes les possibilités qui s'offrent à eux. Avant, pendant ou après vos études, n'hésitez pas à contacter ces différents services...</p>

@@ -1,4 +1,5 @@
 <h1>Félicitations!</h1>
+<p>La réponse était "8".</p>
 <p><a href="index.php?i=4" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
 <h3>Plus d'informations</h3>
 <p>Tu te trouves actuellement devant les PUB, endroit incontournable du campus Solbosch, où tu peux acheter tes syllabus et les livres pour ton cursus. Regarde bien autour de toi, et tu découvriras déjà deux éléments de réponse pour la question posée (Transports en commun, covoiturage).</p>

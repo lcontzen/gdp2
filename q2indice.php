@@ -1,4 +1,4 @@
-<?php if($from_already_answered){ //si déjà répondu?>
+<?php if($from_already_answered==true){ //si déjà répondu?>
 <p>La question a déjà été répondue, retrouve ci-dessous l'indice vers la question suivante</p>
 <?php } ?>
 <h1>Philosophie de l'ULB</h1>
