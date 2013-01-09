@@ -14,5 +14,5 @@
 	  <input type="radio" name="question5" id="optionsRadios3" value="100">
 	  Une centaine.
 	</label>
-	<button type="submit" class="btn">Valider</button>
+	<button type="submit" class="btn btn-primary">Valider</button>
 </form>
