@@ -94,7 +94,7 @@ function main () {
     if (isset($_GET['i'])) { // Cas d'une page d'indice
       $current_question = $_GET['i'];
       $from_already_answered = false;
-      display_next_question_info ($current_question);
+      display_next_question_info ($current_question,$from_already_answered);
     }
     
     if (isset($_GET['r'])) { // Cas d'une réponse.
