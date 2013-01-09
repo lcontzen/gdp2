@@ -1,5 +1,5 @@
 <h1>Vie associative, culturelle et sportive</h1>
-<img src="img.jpg" class="img-polaroid" alt="Laurence Maroye" height="250" width="250" style="display: block; margin-left: auto; margin-right: auto;"/> <!-- TODO: Mettre la bonne image et adapter la taille -->
+<img src="img/asso.jpg" class="img-polaroid"style="display: block; margin-left: auto; margin-right: auto;"/>
 <p>Combien de Cercles et Associations sont actuellement reconnus par l'Université?</p>
 <form method="post" action="index.php?r=5" 5class="navbar-form pull-left">
 	<label class="radio">

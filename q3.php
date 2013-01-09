@@ -1,5 +1,5 @@
 <h1>Mobilité à l'ULB</h1>
-<img src="img.jpg" class="img-polaroid" alt="Laurence Maroye" height="250" width="250" style="display: block; margin-left: auto; margin-right: auto;"/> <!-- TODO: Mettre la bonne image et adapter la taille -->
+<img src="img/mobilite.jpg" class="img-polaroid" style="display: block; margin-left: auto; margin-right: auto;"/>
 <p>Combien de parkings vélo (bornes Villo non comprises) peux-tu trouver sur le Campus du Solbosch ?</p>
 <form method="post" name="reponse3" action="index.php?r=3" class="navbar-form pull-left">
   <label class="radio">
