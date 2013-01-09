@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 	<title>Découvre l'ULB!</title>
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<style>
