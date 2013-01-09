@@ -46,8 +46,9 @@ function display_end_message () {
   include ("page.php");
 }
 
-function display_next_question_info ($q) {
+function display_next_question_info ($q,$aa) {
   $action = "q" . $q . "indice";
+  $from_already_answered=$aa;
   include_once ("page.php");
 }
 
@@ -84,7 +85,7 @@ function main () {
           display_end_message ();
         else {
           $from_already_answered = true;
-          display_next_question_info ($next);
+          display_next_question_info ($next,$from_already_answered);
         }
       }
       display_question ($current_question);
