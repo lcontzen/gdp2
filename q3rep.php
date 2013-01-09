@@ -2,8 +2,7 @@
 <p>La réponse était "8".</p>
 <p><a href="index.php?i=4" class="btn btn-primary">Indice pour trouver le QR Code suivant</a></p>
 <h3>Plus d'informations</h3>
-<p>Tu te trouves actuellement devant les PUB, endroit incontournable du campus Solbosch, où tu peux acheter tes syllabus et les livres pour ton cursus. Regarde bien autour de toi, et tu découvriras déjà deux éléments de réponse pour la question posée (Transports en commun, covoiturage).</p>
-<p>Maintenant dirige-toi vers la bibliothèque et tourne dans la première rue à droite, juste après les PUB. Regarde bien et tu trouveras un nouvel élément de réponse juste à ta gauche (parking vélos).</p>
-<p>Continue tout droit, tu te trouves maintenant derrière le bâtiment F où tu peux prendre un délicieux repas chaud pendant ta pause de midi. Regarde à ta gauche et bingo! (parking voitures).</p>
-<p>Maintenant, entre dans le bâtiment F, prends les escaliers et descends d'un étage. Sors du bâtiment mais regarde bien sur l'une des portes tu auras un QR code qui te donnera un élément de réponse. (QR Code vers le site djengo (covoiturage, possibilité de planifier le trajet par internet))</p>
-<p>Maintenant, dirige-toi tout droit, vers le Janson. Ouvre bien les yeux, et tu trouveras le dernier élément pour répondre à la question (borne villo).</p>
+<p>Le Campus du Solbosh dispose d’un seul parking sécurisé, cependant, de nombreux autres parkings placés stratégiquement à proximité des facultés et bibliothèques sont à ta disposition.</p>
+<p>En descendant l’Avenue Paul Héger (ton point de départ), tu rencontreras plusieurs parkings vélo. Passe devant le bâtiment F1 qui regroupe les restaurants et cafés typiques de l’ULB : Chez Théo, Le Campouce, Le KafKaf, Le Petit Yoyo, etc...</p>
+<p>Continues vers le bâtiment H (faculté des Sciences Humaines et Sociales), reviens sur tes pas et rends-toi devant le bâtiment NB (bibliothèque des Sciences Humaines). Emprunte la rue à gauche du bâtiment NB, tu arriveras devant la Square Jean Servais en face duquel tu trouveras le bâtiment U (faculté des Sciences Appliquées) emprunte l’entrée UB du bâtiment U, cette entrée est une passerelle qui te permettra d’atteindre le Square Groupe G, continue tout droit en longeant le bâtiment UA et tu arriveras près de bâtiment D (Faculté de Journalisme et des Sciences de l’Information et de la Communication), tu y trouveras également un plan du Campus.</p>
+<p>Bonne promenade !</p>

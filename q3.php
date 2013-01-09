@@ -14,5 +14,5 @@
     <input type="radio" name="reponse3" id="optionsRadios3" value="8">
     8
   </label>
-  <button type="submit" class="btn">Valider</button>
+  <button type="submit" class="btn btn-primary">Valider</button>
 </form>
