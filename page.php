@@ -2,7 +2,7 @@
 <html>
   <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf8">
-	<title>Découvre l'ULB!</title>
+	<title>DÃ©couvre l'ULB!</title>
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
 	<style>
       body {
@@ -22,7 +22,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="#">Découvre l'ULB</a>
+          <a class="brand" href="#">DÃ©couvre l'ULB</a>
         </div>
       </div>
     </div>
