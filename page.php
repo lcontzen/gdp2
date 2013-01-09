@@ -29,7 +29,7 @@
 	
 	<div class="container">
 	  <div class="row">
-		<div class="span12" style="text-align= justify;">
+		<div class="span12" style="text-align: justify;">
 		  <?php include $action.".php"; ?>
 		</div>
 	  </div>
